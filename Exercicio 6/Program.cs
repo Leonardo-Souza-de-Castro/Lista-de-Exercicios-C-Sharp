@@ -6,22 +6,33 @@ namespace Exercicio_6
     {
         static void Main(string[] args)
         {
-            string[] nomes = null;
+            string[] nomes = new string[10];
             string nome = null;
+            bool resposta = false;
 
-            for (var i = 0; i < 11; i++)
+            for (var i = 0; i < 10; i++)
             {
                 Console.Write("Insira um nome por favor: ");
                 nomes[i] = Console.ReadLine();
             }
 
-            Console.Write("Digite mais um nomes para nossa comparação");
+            Console.Write("Digite mais um nomes para nossa comparação: ");
             nome = Console.ReadLine();
 
             foreach (var item in nomes)
             {
-                Console.WriteLine(nomes);
+                if (nome == item)
+                {
+                    resposta = true;
+                }
             }
+                if (resposta == true)
+                {
+                    Console.WriteLine("Achamos!!");
+                } else
+                {
+                    Console.WriteLine("Não achei esse nome no nosso sistema :(");
+                }
         }
     }
 }

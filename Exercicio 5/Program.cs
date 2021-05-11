@@ -6,7 +6,7 @@ namespace Exercicio_5
     {
         static void Main(string[] args)
         {
-            int numeros = 0;
+/*             int numeros = 0;
             int resultado = 0;
             bool tabuada = false;
 
@@ -35,7 +35,17 @@ namespace Exercicio_5
                 tabuada = true;
             }
                 
-            } while (tabuada == false);
+            } while (tabuada == false); */
+
+            for (var i = 1; i <= 10; i++)
+            {
+                Console.WriteLine("Tabuada do " + i);
+                for (var j = 1; j <= 10; j++)
+                {
+                    int resultado = i * j;
+                    Console.WriteLine($"{i} * {j} = {resultado}");
+                }
+            }
         }
     }
 }

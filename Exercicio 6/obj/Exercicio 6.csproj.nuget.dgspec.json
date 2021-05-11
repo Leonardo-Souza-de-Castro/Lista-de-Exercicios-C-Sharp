@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\guilherme_2\\Documents\\trabalhos do leo\\Senai\\TUDO DE C#\\Exercicios de fixação\\Exercicio 6\\Exercicio 6.csproj": {}
+    "C:\\Users\\dev\\Desktop\\Lista-de-Exercicios-C-Sharp\\Exercicio 6\\Exercicio 6.csproj": {}
   },
   "projects": {
-    "C:\\Users\\guilherme_2\\Documents\\trabalhos do leo\\Senai\\TUDO DE C#\\Exercicios de fixação\\Exercicio 6\\Exercicio 6.csproj": {
+    "C:\\Users\\dev\\Desktop\\Lista-de-Exercicios-C-Sharp\\Exercicio 6\\Exercicio 6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\guilherme_2\\Documents\\trabalhos do leo\\Senai\\TUDO DE C#\\Exercicios de fixação\\Exercicio 6\\Exercicio 6.csproj",
+        "projectUniqueName": "C:\\Users\\dev\\Desktop\\Lista-de-Exercicios-C-Sharp\\Exercicio 6\\Exercicio 6.csproj",
         "projectName": "Exercicio 6",
-        "projectPath": "C:\\Users\\guilherme_2\\Documents\\trabalhos do leo\\Senai\\TUDO DE C#\\Exercicios de fixação\\Exercicio 6\\Exercicio 6.csproj",
-        "packagesPath": "C:\\Users\\guilherme_2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\guilherme_2\\Documents\\trabalhos do leo\\Senai\\TUDO DE C#\\Exercicios de fixação\\Exercicio 6\\obj\\",
+        "projectPath": "C:\\Users\\dev\\Desktop\\Lista-de-Exercicios-C-Sharp\\Exercicio 6\\Exercicio 6.csproj",
+        "packagesPath": "C:\\Users\\dev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dev\\Desktop\\Lista-de-Exercicios-C-Sharp\\Exercicio 6\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\guilherme_2\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\dev\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"

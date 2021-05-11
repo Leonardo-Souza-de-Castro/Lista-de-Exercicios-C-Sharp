@@ -14,3 +14,19 @@ C:\Users\guilherme_2\Documents\trabalhos do leo\Senai\TUDO DE C#\Exercicios de f
 C:\Users\guilherme_2\Documents\trabalhos do leo\Senai\TUDO DE C#\Exercicios de fixação\Exercicio 7\obj\Debug\net5.0\ref\Exercicio 7.dll
 C:\Users\guilherme_2\Documents\trabalhos do leo\Senai\TUDO DE C#\Exercicios de fixação\Exercicio 7\obj\Debug\net5.0\Exercicio 7.pdb
 C:\Users\guilherme_2\Documents\trabalhos do leo\Senai\TUDO DE C#\Exercicios de fixação\Exercicio 7\obj\Debug\net5.0\Exercicio 7.genruntimeconfig.cache
+C:\Users\dev\Desktop\Lista-de-Exercicios-C-Sharp\Exercicio 7\bin\Debug\net5.0\Exercicio 7.exe
+C:\Users\dev\Desktop\Lista-de-Exercicios-C-Sharp\Exercicio 7\bin\Debug\net5.0\Exercicio 7.deps.json
+C:\Users\dev\Desktop\Lista-de-Exercicios-C-Sharp\Exercicio 7\bin\Debug\net5.0\Exercicio 7.runtimeconfig.json
+C:\Users\dev\Desktop\Lista-de-Exercicios-C-Sharp\Exercicio 7\bin\Debug\net5.0\Exercicio 7.runtimeconfig.dev.json
+C:\Users\dev\Desktop\Lista-de-Exercicios-C-Sharp\Exercicio 7\bin\Debug\net5.0\Exercicio 7.dll
+C:\Users\dev\Desktop\Lista-de-Exercicios-C-Sharp\Exercicio 7\bin\Debug\net5.0\ref\Exercicio 7.dll
+C:\Users\dev\Desktop\Lista-de-Exercicios-C-Sharp\Exercicio 7\bin\Debug\net5.0\Exercicio 7.pdb
+C:\Users\dev\Desktop\Lista-de-Exercicios-C-Sharp\Exercicio 7\obj\Debug\net5.0\Exercicio 7.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\Lista-de-Exercicios-C-Sharp\Exercicio 7\obj\Debug\net5.0\Exercicio 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Desktop\Lista-de-Exercicios-C-Sharp\Exercicio 7\obj\Debug\net5.0\Exercicio 7.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\Lista-de-Exercicios-C-Sharp\Exercicio 7\obj\Debug\net5.0\Exercicio 7.AssemblyInfo.cs
+C:\Users\dev\Desktop\Lista-de-Exercicios-C-Sharp\Exercicio 7\obj\Debug\net5.0\Exercicio 7.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\Lista-de-Exercicios-C-Sharp\Exercicio 7\obj\Debug\net5.0\Exercicio 7.dll
+C:\Users\dev\Desktop\Lista-de-Exercicios-C-Sharp\Exercicio 7\obj\Debug\net5.0\ref\Exercicio 7.dll
+C:\Users\dev\Desktop\Lista-de-Exercicios-C-Sharp\Exercicio 7\obj\Debug\net5.0\Exercicio 7.pdb
+C:\Users\dev\Desktop\Lista-de-Exercicios-C-Sharp\Exercicio 7\obj\Debug\net5.0\Exercicio 7.genruntimeconfig.cache
