@@ -6,8 +6,7 @@ namespace Exercicio_4
     {
         static void Main(string[] args)
         {
-            int quantidade_numeros = 10;
-            int[] numeros = new int[quantidade_numeros];
+            int[] numeros = new int[10];
             for (int i = 0; i < numeros.Length; i++)
             {
                 Console.WriteLine("Digite um numero: ");
@@ -15,9 +14,8 @@ namespace Exercicio_4
             }
 
             Array.Sort(numeros);
-                Console.WriteLine("O maior valor é: " + numeros[0]);
-                Console.WriteLine("O menor valor é: " + numeros[9]);
-                
+            Console.WriteLine("O menor valor é: " + numeros[0]);
+            Console.WriteLine("O maior valor é: " + numeros[9]);
         }
     }
 }

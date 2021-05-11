@@ -13,11 +13,11 @@ namespace Exercicio_6
             for (var i = 0; i < 10; i++)
             {
                 Console.Write("Insira um nome por favor: ");
-                nomes[i] = Console.ReadLine();
+                nomes[i] = Console.ReadLine().ToLower();
             }
 
             Console.Write("Digite mais um nomes para nossa comparação: ");
-            nome = Console.ReadLine();
+            nome = Console.ReadLine().ToLower();
 
             foreach (var item in nomes)
             {
@@ -26,7 +26,7 @@ namespace Exercicio_6
                     resposta = true;
                 }
             }
-                if (resposta == true)
+                if (resposta)
                 {
                     Console.WriteLine("Achamos!!");
                 } else
