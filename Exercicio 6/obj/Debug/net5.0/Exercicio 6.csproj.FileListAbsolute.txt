@@ -1,0 +1,16 @@
+C:\Users\guilherme_2\Documents\trabalhos do leo\Senai\TUDO DE C#\Exercicios de fixação\Exercicio 6\bin\Debug\net5.0\Exercicio 6.exe
+C:\Users\guilherme_2\Documents\trabalhos do leo\Senai\TUDO DE C#\Exercicios de fixação\Exercicio 6\bin\Debug\net5.0\Exercicio 6.deps.json
+C:\Users\guilherme_2\Documents\trabalhos do leo\Senai\TUDO DE C#\Exercicios de fixação\Exercicio 6\bin\Debug\net5.0\Exercicio 6.runtimeconfig.json
+C:\Users\guilherme_2\Documents\trabalhos do leo\Senai\TUDO DE C#\Exercicios de fixação\Exercicio 6\bin\Debug\net5.0\Exercicio 6.runtimeconfig.dev.json
+C:\Users\guilherme_2\Documents\trabalhos do leo\Senai\TUDO DE C#\Exercicios de fixação\Exercicio 6\bin\Debug\net5.0\Exercicio 6.dll
+C:\Users\guilherme_2\Documents\trabalhos do leo\Senai\TUDO DE C#\Exercicios de fixação\Exercicio 6\bin\Debug\net5.0\ref\Exercicio 6.dll
+C:\Users\guilherme_2\Documents\trabalhos do leo\Senai\TUDO DE C#\Exercicios de fixação\Exercicio 6\bin\Debug\net5.0\Exercicio 6.pdb
+C:\Users\guilherme_2\Documents\trabalhos do leo\Senai\TUDO DE C#\Exercicios de fixação\Exercicio 6\obj\Debug\net5.0\Exercicio 6.csprojAssemblyReference.cache
+C:\Users\guilherme_2\Documents\trabalhos do leo\Senai\TUDO DE C#\Exercicios de fixação\Exercicio 6\obj\Debug\net5.0\Exercicio 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme_2\Documents\trabalhos do leo\Senai\TUDO DE C#\Exercicios de fixação\Exercicio 6\obj\Debug\net5.0\Exercicio 6.AssemblyInfoInputs.cache
+C:\Users\guilherme_2\Documents\trabalhos do leo\Senai\TUDO DE C#\Exercicios de fixação\Exercicio 6\obj\Debug\net5.0\Exercicio 6.AssemblyInfo.cs
+C:\Users\guilherme_2\Documents\trabalhos do leo\Senai\TUDO DE C#\Exercicios de fixação\Exercicio 6\obj\Debug\net5.0\Exercicio 6.csproj.CoreCompileInputs.cache
+C:\Users\guilherme_2\Documents\trabalhos do leo\Senai\TUDO DE C#\Exercicios de fixação\Exercicio 6\obj\Debug\net5.0\Exercicio 6.dll
+C:\Users\guilherme_2\Documents\trabalhos do leo\Senai\TUDO DE C#\Exercicios de fixação\Exercicio 6\obj\Debug\net5.0\ref\Exercicio 6.dll
+C:\Users\guilherme_2\Documents\trabalhos do leo\Senai\TUDO DE C#\Exercicios de fixação\Exercicio 6\obj\Debug\net5.0\Exercicio 6.pdb
+C:\Users\guilherme_2\Documents\trabalhos do leo\Senai\TUDO DE C#\Exercicios de fixação\Exercicio 6\obj\Debug\net5.0\Exercicio 6.genruntimeconfig.cache
